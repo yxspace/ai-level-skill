@@ -1,0 +1,27 @@
+# Generated output - never commit
+output/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Netlify state (local deploy metadata)
+.netlify/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Virtual environments
+venv/
+.venv/
+env/
